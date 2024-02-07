@@ -7,19 +7,7 @@
 
 - 🔭 I’m currently working on [Synthetic Data Generation Project](https://screen4care.eu/)
 
-- 👯 I’m looking to collaborate on **tabular health records projects**
-
-- 🤝 I’m looking for help with **Machine Learning projects**
-
-- 👨‍💻 All of my projects are available at [linkedin.com/irfanrala](linkedin.com/irfanrala)
-
-- 📝 I regularly write articles on [linkedin.com/irfanrala](linkedin.com/irfanrala)
-
 - 💬 Ask me about **Machine Learning , Deep Learning, Flutter, React**
-
-- 📫 How to reach me **irfan.rala@gmail.com**
-
-- 📄 Know about my experiences [linkedin.com/irfanrala](linkedin.com/irfanrala)
 
 - ⚡ Fun fact **I am funny being a team member**
 
