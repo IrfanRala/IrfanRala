@@ -32,13 +32,13 @@
 <a href="/podcasts/irfanrala/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="podcasts/irfanrala/" height="30" width="40" /></a>
 </p>
 
-
+<h3 align="left">Summary and Stat:</h3>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=irfanrala&show_icons=true&locale=en&layout=compact" alt="irfanrala" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=irfanrala&show_icons=true&locale=en" alt="irfanrala" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=irfanrala&" alt="irfanrala" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=irfanrala&show_icons=true&locale=en" alt="irfanrala" /></p>
 <br><br>
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/irfanrala"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="irfanrala" /></a><a href="https://ko-fi.com/irfanrala"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="irfanrala" /></a></p>
