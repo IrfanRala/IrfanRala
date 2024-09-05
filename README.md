@@ -5,7 +5,7 @@
 - 🔭 I have worked on [Synthetic Electronic Health Records Generation Project](https://screen4care.eu/)
 - 🔭 I have worked on [Development of Federated Metadata Repository Project](https://screen4care.eu/)
 - 🌱 I’m currently learning Nature Inspired Optimization Algorithms
-- 💬 Ask me about **Machine Learning , Deep Learning, Flutter, React**
+- 💬 Ask me about **Federated Learning, Machine Learning, Deep Learning, EHRs**
 - ⚡ Fun fact **I am friendly being a team member**
 - 📫 How to reach me:
 <a href="https://twitter.com/imirfanrala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="imirfanrala" height="12" width="16" /></a>
