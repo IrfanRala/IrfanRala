@@ -2,7 +2,7 @@
 <h3 align="left">Hi there 👋,I'm Irfan, researcher and developer from Denmark</h3>
 
 - 🔭 I’m currently working on Development of Computational OMICS and QSAR Solutions' Project
-- 🔭 I have worked on [Synthetic Data Generation Project](https://screen4care.eu/)
+- 🔭 I have worked on [Synthetic Electronic Health Records Generation Project](https://screen4care.eu/)
 - 🔭 I have worked on [Development of Federated Metadata Repository Project](https://screen4care.eu/)
 - 🌱 I’m currently learning Nature Inspired Optimization Algorithms
 - 💬 Ask me about **Machine Learning , Deep Learning, Flutter, React**
