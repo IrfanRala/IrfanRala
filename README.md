@@ -23,18 +23,9 @@
 <h3 align="left">Connect with me:</h3>
 <hr><br>
 <p align="left">
-<a href="https://dev.to/irfanrala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="irfanrala" height="30" width="40" /></a>
 <a href="https://twitter.com/imirfanrala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="imirfanrala" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/irfanrala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="irfanrala" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/irfan.rala@gmail,com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="irfan.rala@gmail,com" height="30" width="40" /></a>
-<a href="https://codesandbox.com/irfanrala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="irfanrala" height="30" width="40" /></a>
 <a href="https://kaggle.com/muhammadirfanmalik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="muhammadirfanmalik" height="30" width="40" /></a>
-<a href="https://medium.com/@irfanrala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@irfanrala" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/irfanrala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="irfanrala" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/irfanrala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="irfanrala" height="30" width="40" /></a>
-<a href="https://www.topcoder.com/members/irfanrala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="irfanrala" height="30" width="40" /></a>
-<a href="https://discord.gg/irfanrala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="irfanrala" height="30" width="40" /></a>
-<a href="/podcasts/irfanrala/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="podcasts/irfanrala/" height="30" width="40" /></a>
 </p>
 
 
