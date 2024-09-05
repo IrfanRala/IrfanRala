@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Irfan Malik</h1>
 <h3 align="center">A passionate researcher and developer from Denmark</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=irfanrala&label=Profile%20views&color=0e75b6&style=flat" alt="irfanrala" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=irfanrala" alt="irfanrala" /></a> </p>
-
 - 🔭 I’m currently working on [Development of Computational OMICS and QSAR Solutions' Project]
 - 🔭 I have worked on [Synthetic Data Generation Project](https://screen4care.eu/)
 - 🔭 I have worked on [Development of Federated Metadata Repository Project](https://screen4care.eu/)
