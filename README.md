@@ -1,5 +1,5 @@
-<h1 align="left">Hi 👋, I'm Irfan Malik</h1>
-<h3 align="left">Hi there 👋,A passionate researcher and developer from Denmark</h3>
+
+<h3 align="left">Hi there 👋,I'm Irfan researcher and developer from Denmark</h3>
 
 - 🔭 I’m currently working on Development of Computational OMICS and QSAR Solutions' Project
 - 🔭 I have worked on [Synthetic Data Generation Project](https://screen4care.eu/)
