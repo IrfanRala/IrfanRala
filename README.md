@@ -8,9 +8,9 @@
 - 💬 Ask me about **Machine Learning , Deep Learning, Flutter, React**
 - ⚡ Fun fact **I am friendly being a team member**
 - 📫 How to reach me:
-<a href="https://twitter.com/imirfanrala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="imirfanrala" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/irfanrala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="irfanrala" height="30" width="40" /></a>
-<a href="https://kaggle.com/muhammadirfanmalik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="muhammadirfanmalik" height="30" width="40" /></a>
+<a href="https://twitter.com/imirfanrala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="imirfanrala" height="10" width="10" /></a>
+<a href="https://linkedin.com/in/irfanrala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="irfanrala" height="10" width="10" /></a>
+<a href="https://kaggle.com/muhammadirfanmalik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="muhammadirfanmalik" height="10" width="10" /></a>
 
 
 
