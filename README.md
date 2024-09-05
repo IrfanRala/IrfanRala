@@ -5,11 +5,14 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=irfanrala" alt="irfanrala" /></a> </p>
 
-- 🔭 I’m currently working on [Synthetic Data Generation Project](https://screen4care.eu/)
-
+- 🔭 I’m currently working on [Development of Computational OMICS and QSAR Solutions' Project]
+- 🔭 I have worked on [Synthetic Data Generation Project](https://screen4care.eu/)
+- 🔭 I have worked on [Development of Federated Metadata Repository Project](https://screen4care.eu/)
+- 🌱 I’m currently learning Nature Inspired Optimization Algorithms
+- 📫 How to reach me: Twitter, LinkedIn, Email.
 - 💬 Ask me about **Machine Learning , Deep Learning, Flutter, React**
 
-- ⚡ Fun fact **I am funny being a team member**
+- ⚡ Fun fact **I am friendly being a team member**
 
 
 
